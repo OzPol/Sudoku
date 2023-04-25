@@ -1,8 +1,12 @@
 # Sudoku
 Sudoku_generator program in Python
+
+https://www.youtube.com/watch?v=bbGXN4sTibo
+
+
 UF - COP3502 - Group Project4
 
-
+Group4: OzPol, andrew2011, NHazelJ
 
 '''
 Below instructions were provided to the students who initiated the contents of this repository 
